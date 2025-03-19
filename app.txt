@@ -9,4 +9,7 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
 3. Git의 작업 방식
     git add 파일명
     git commit -m '커밋메시지'
+    버전 만들땐 git add, git commit 순으로 하면 된다.
+    작업폴더에서 git add하면 스테이징 지역으로 옮겨지고, 
+    git commit하는 순간 레파지토리로 이동한다.
     스테이징이란?
