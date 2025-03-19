@@ -1,4 +1,5 @@
-print('hello world');
+print('hello world')
+print('hello world')
 
 
 test_arr = [1, 2, 3, 4, 5]
