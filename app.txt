@@ -30,3 +30,5 @@ asdasdasdasadasd* cea44a4 (HEAD -> master) 추가내용 정리중중
 * fc61148 eee
 
 앞 16진수 숫자가 커밋 아이디다.
+
+다른 브랜치에서 실험하는 중이다.
