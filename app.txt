@@ -22,40 +22,9 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
 4. 스테이징이란
     staging area는 commit을 하기 전에 commit할 파일들을 골라놓는 곳
 
-asdasdasdasadasd* cea44a4 (HEAD -> master) 추가내용 정리중중
-* 8ddd056 add1
-* 0f1054d 2222
-* e8c4f20 스테이징징
-* 69a2a3b 작업방식에 대한한
-* fc61148 eee
-
-앞 16진수 숫자가 커밋 아이디다.
-
-다른 브랜치에서 실험하는 중이다.
-++
-git branch 브랜치이름
-```
-
-이러면 프로젝트 사본이 하나 생성됩니다.
-
-저는 git branch coupon 이라고 작명해봤습니다.
-
-```coffeescript
-git switch 브랜치이름
-```
-
-예를 들어 방금 만든 coupon 브랜치로 이동하고 싶으면
-
-git switch coupon 하면 됩니다.
-
-\- 옛날엔 "git checkout 브랜치명" 입력했음 
-
-\- 다시 메인 브랜치로 되돌아가고 싶으면 git switch main 하면 됩니다. (님들 설정에 따라 main 말고 master 일 수도 있음)
-
-\- 어떤 브랜치에 와있는지 까먹었으면 git status 입력할 수 있습니다. 
-
-coupon 브랜치로 이동했으면 거기서 개발하고 commit 맘대로 할 수 있습니다.
-
-**coupon 브랜치에서 새로운 파일 만들어서 코드짜고 commit 몇번 해보십시오.** 
-
-**master/main 브랜치에서도 기존 파일들에 commit 몇번 해봅시다.** 
+5. 브랜치란
+    git branch 
+    또다른 경로를 만든다 (사본)
+    현재의 줄기에서 다른 줄기 / 다른 시간선을 만드는셈
+    명령어 git branch 브랜치명
+    
