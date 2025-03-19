@@ -39,3 +39,11 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
     a-1에서 수정사항 없이
     b-1에서만 수정하고
     a-1로 와서 머지를 하면 ff방식 Fast-forward로 merge된다.
+
+8. 브랜치를 삭제하려면
+    3-way,  fast-forward 아무렇게나 merge 해도
+    브랜치를 merge 하고 나면 브랜치가 자동으로 삭제되진 않습니다.
+
+    git branch -d 브랜치이름
+    git branch -D 브랜치이름
+
