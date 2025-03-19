@@ -15,7 +15,9 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
     -
     git add 파일명1 파일명2  / 동시에 여러 파일도 가능
     git add . / 작업폴더의 모든 파일을 전부 스테이징
-    
+    git restore --staged 파일명 / 스테이징한 파일 취소소
+    git log --all --oneline
+    git log --all --oneline --graph / 커밋한 기록들 한눈에
 
 4. 스테이징이란
     staging area는 commit을 하기 전에 commit할 파일들을 골라놓는 곳
