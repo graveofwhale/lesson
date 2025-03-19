@@ -43,3 +43,4 @@ asdasdasdasadasd* cea44a4 (HEAD -> master) 추가내용 정리중중
 
 
 master에서 커밋 연습
+정신없는 컷밋연습
