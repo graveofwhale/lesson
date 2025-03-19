@@ -22,3 +22,20 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
 4. 스테이징이란
     staging area는 commit을 하기 전에 commit할 파일들을 골라놓는 곳
 
+asdasdasdasadasd* cea44a4 (HEAD -> master) 추가내용 정리중중
+* 8ddd056 add1
+* 0f1054d 2222
+* e8c4f20 스테이징징
+* 69a2a3b 작업방식에 대한한
+* fc61148 eee
+* 70c4058 ddddd
+* 00a9171 내용변화
+* fef0994 app.txt에 공백 추가 및 내용 수정
+* 5709266 12323ㅇ놈들아
+* 2092b19 ㅇ놈들아
+* 39c1eed 미친놈들아
+* 56d99ad 2 try
+* fb9ca16 first try
+* c4d0906 3번째 ~~
+* fea2520 2번째 테스트
+앞 16진수 숫자가 커밋 아이디다.
