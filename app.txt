@@ -21,6 +21,8 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
 
 4. 스테이징이란
     staging area는 commit을 하기 전에 commit할 파일들을 골라놓는 곳
+    4-2 추가내용 확인 test에서 add하자
+    
 
 5. 브랜치란
     git branch 
