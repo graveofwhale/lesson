@@ -39,3 +39,7 @@ asdasdasdasadasd* cea44a4 (HEAD -> master) 추가내용 정리중중
 * c4d0906 3번째 ~~
 * fea2520 2번째 테스트
 앞 16진수 숫자가 커밋 아이디다.
+
+
+
+master에서 커밋 연습
