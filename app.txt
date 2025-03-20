@@ -7,6 +7,8 @@
 git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코옵할수 있게 가능하게 해주는 것이 GitHub
 
 3. Git의 작업 방식
+    git config --global user.email "홍길동@naver.com"
+    git config --global user.name "홍길동"
     git add 파일명
     git commit -m '커밋메시지'
     버전 만들땐 git add, git commit 순으로 하면 된다.
@@ -53,4 +55,3 @@ git은 개인단계의 감시와 보관이라면 그것을 온라인으로 코�
     깃허브레포짓이 길다. 변수화가 필요
     git remote add 변수명 깃허브레포짓주소
     이후 변수명으로 대체 가능
-    
